@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.6
+Created-By: 1.8.0_91-8u91-b14-3ubuntu1~16.04.1-b14 (Oracle Corporation
+ )
+Class-Path: lib/junit-4.12.jar lib/jna-3.2.5.jar lib/jpbc-crypto-2.0.0
+ .jar lib/jpbc-pbc-2.0.0.jar lib/jpbc-plaf-2.0.0.jar lib/jpbc-api-2.0.
+ 0.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: testproject.TestProject
+
